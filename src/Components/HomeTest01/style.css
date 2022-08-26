@@ -1,0 +1,44 @@
+.header{
+    height: 10vh;
+    background-color: black;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    border-bottom:3px solid rgb(105, 102, 102) ;
+}
+.header a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+   padding-top: 15px;
+}
+.ftt{display: block;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 8%;
+    height: 150px;
+    width: 220px;
+    word-wrap: break-word;
+}
+.ftt1 .ftt2{
+    margin: 5px;
+}
+.ftt2{
+        background-color: black;
+        color: #fff;
+        border: 2px solid ;
+        border-radius: 13% ;
+}
+
+.ftt button {
+
+    align-items: stretch;
+    bottom: 0px;
+    color: #fff;
+    background-color: black;
+    border: 4px solid;
+    border-radius: 20%;
+    
+}
